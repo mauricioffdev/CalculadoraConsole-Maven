@@ -16,14 +16,11 @@ Projeto simples de calculadora de linha de comando, feito em Java com Maven. Per
 
 ## Como rodar
 
-Clone o repositório:
-
+Clone o repositório:  
 git clone https://github.com/mauricioffdev/CalculadoraConsole-Maven.git
 
-Entre na pasta: CalculadoraConsole-Maven
-
-Compile o projeto: mvn compile
-
+Entre na pasta: CalculadoraConsole-Maven  
+Compile o projeto: mvn compile  
 Execute o programa: mvn exec:java -Dexec.mainClass="com.mauricioffdev.calculadora.CalculadoraApp"
 
 Classe principal: src/main/java/com/mauricioffdev/calculadora/CalculadoraApp.java
@@ -32,18 +29,12 @@ Exemplo de uso
 
 === Calculadora Console ===
 
-Digite dois números e a operação desejada.
-
-Operações válidas: +  -  *  /
-
-Digite 'sair' como operação para encerrar.
-
-Digite o primeiro número: 10
-
-Digite a operação (+, -, *, / ou 'sair'): *
-
-Digite o segundo número: 5
-
+Digite dois números e a operação desejada.  
+Operações válidas: +  -  *  /  
+Digite 'sair' como operação para encerrar.  
+Digite o primeiro número: 10  
+Digite a operação (+, -, *, / ou 'sair'): *  
+Digite o segundo número: 5  
 Resultado: 50.0
 
 mauricioffdev
