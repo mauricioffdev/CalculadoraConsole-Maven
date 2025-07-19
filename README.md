@@ -24,7 +24,9 @@ Entre na pasta: CalculadoraConsole-Maven
 
 Compile o projeto: mvn compile
 
-Execute o programa: mvn exec:java -Dexec.mainClass="com.seuusuario.calculadora.CalculadoraApp"
+Execute o programa: mvn exec:java -Dexec.mainClass="com.mauricioffdev.calculadora.CalculadoraApp"
+
+Classe principal: src/main/java/com/mauricioffdev/calculadora/CalculadoraApp.java
                         
 Exemplo de uso
 
