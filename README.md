@@ -25,31 +25,23 @@ Entre na pasta: CalculadoraConsole-Maven
 Compile o projeto: mvn compile
 
 Execute o programa: mvn exec:java -Dexec.mainClass="com.seuusuario.calculadora.CalculadoraApp"
-
-📁 Estrutura do projeto
-css
-Copiar
-Editar
-calculadora-maven/
-├── pom.xml
-└── src/
-    └── main/
-        └── java/
-            └── com/
-                └── seuusuario/
-                    └── calculadora/
-                        └── CalculadoraApp.java
                         
 Exemplo de uso
 
 === Calculadora Console ===
 
 Digite dois números e a operação desejada.
+
 Operações válidas: +  -  *  /
+
 Digite 'sair' como operação para encerrar.
+
 Digite o primeiro número: 10
+
 Digite a operação (+, -, *, / ou 'sair'): *
+
 Digite o segundo número: 5
+
 Resultado: 50.0
 
 mauricioffdev
